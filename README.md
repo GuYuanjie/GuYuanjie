@@ -22,4 +22,4 @@ Other         7 mins          ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYuanjie&show_icons=true&theme=radical)](https://github.com/GuYuanjie)
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYuanjie&show_icons=true&theme=dark)](https://github.com/GuYuanjie)
