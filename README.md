@@ -22,6 +22,4 @@ Other         7 mins          ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GuYuanjie)]()
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GuYuanjie&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
