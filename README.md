@@ -10,6 +10,18 @@
 - 🖋  C++ / Python.
 - ✍️ HomePage at [Yuanjie Gu](https://guyuanjie.com)
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+Read Paper    11 hrs 33 mins  ████████████████████▒░░░░   81.19 %
+Coding        1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Writing       53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Discussing    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+```
+
+<!--END_SECTION:waka-->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GuYuanjie)]()
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GuYuanjie&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
