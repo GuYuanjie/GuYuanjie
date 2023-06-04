@@ -5,9 +5,9 @@
 
 - 🍻 Bachelor at [CUP(K)](https://www.cupk.edu.cn/), _BSc in Software Engineering_
 - ⚡ Master at [JNU](https://www.jiangnan.edu.cn/), _MSc in Electronic information_
-- ✍️ RA at [FDU](https://www.fudan.edu.cn/), _Ph.D. con. RA in Bio-medical Engineering_
+- ✍️ Ph.D. can. at [FDU](https://www.fudan.edu.cn/), _Ph.D. can.in Bio-medical Engineering_
 - ♟  PI at [HorizonFlow Lab](https://www.horizonflowlab.com), _community-of-interest focusing on the cross-cutting science of AI+_
-- 🖋  C++ / Python.
+- 🖋  Python.
 - ✍️ HomePage at [Yuanjie Gu](https://guyuanjie.com)
 
 📊 **this week i spent my time on:**
